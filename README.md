@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rkarunarat
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning on anything interested in linkedin learning
-- 💞️ I’m looking to collaborate on wiley projects for SPE team
 - 📫 this is my account for my workplace stuffs you can find me here with my other projects https://github.com/Madu-rosh
 
 <!---
